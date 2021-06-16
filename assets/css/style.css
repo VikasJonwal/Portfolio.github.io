@@ -196,7 +196,7 @@ body {
     background-attachment: fixed;
   }
 }
-@media (max-width:768px) {
+@media (max-width:565px) {
   #hero h1 {
     font-size: 38px;
     line-height: 36px;
